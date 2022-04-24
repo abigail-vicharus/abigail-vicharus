@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on some project
+- 🌱 I’m currently learning `Javascript`
+- 👯 I’m looking to collaborate on something
+- 💬 Ask me about anything
+- 📫 How to reach me: 
+- 😄 Pronouns: noona
+- ⚡ Fun fact: i like nightcore
 <!--
 **02032022/02032022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
